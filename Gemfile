@@ -29,6 +29,7 @@ group :test do
    gem 'factory_girl_rails', '4.2.1'
 end
 
+gem "railties", "4.0.0"
 gem 'sass-rails', '4.0.0'
 gem 'uglifier', '2.1.1'
 gem 'coffee-rails', '4.0.0'
